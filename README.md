@@ -1,2 +1,2 @@
 # Slapbass Synthesis
-( º﹃º ) How to show latex equations in readme.md?
+┐( º﹃º )┌ How to show latex equations in readme.md?
